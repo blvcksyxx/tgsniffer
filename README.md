@@ -1,4 +1,4 @@
-# blvcksyxx tg_sniffer [v1]
+# blvcksyxx tg sniffer [v1]
 
 a lightweight, multi-threaded console utility designed to isolate and monitor real-time peer-to-peer (P2P) network streams. utilizing raw socket sniffing, the tool automatically drops cdn noise, structures connection traffic into a minimal grid interface, and resolves remote endpoint metadata instantly.
 
